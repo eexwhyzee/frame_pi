@@ -1,1 +1,1 @@
-instagram-scraper nala_cat -d photos/ -m 10 -t image
+instagram-scraper nala_cat, goldenretrievers -d photos/ -m 10 -t image
